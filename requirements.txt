@@ -1,0 +1,7 @@
+# Python version at the time of development is 3.10.12
+
+pdfplumber==0.11.1
+requests==2.31.0
+re==2.2.1
+pandas==2.0.3
+beautifulsoup4==4.12.3
